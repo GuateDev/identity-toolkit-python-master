@@ -1,0 +1,7 @@
+{
+  "clientId": "610950148240-n5gkq3cl2s879i5bvg8isemejfdu0bdd.apps.googleusercontent.com",
+  "serviceAccountEmail": "610950148240-0mk705li13ki1e0uvn2n444rceags872@developer.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile": "C:\ServerSide\Cloud-GuateDev-3d7cb6be91f4.p12",
+  "widgetUrl": "http://localhost:8000/widget",
+  "cookieName": "gtoken"
+}
